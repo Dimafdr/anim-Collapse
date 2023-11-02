@@ -2,7 +2,7 @@
 
 [![Build status](https://ci.appveyor.com/api/projects/status/7vlapdyyuw96b2t6?svg=true)](https://ci.appveyor.com/project/Dimafdr/anim-collapse)
 
-https://helgaroosh.github.io/ahj-pb-homework-9animation/
+https://dimafdr.github.io/anim-Collapse/
 ---
 
 ### Collapse
